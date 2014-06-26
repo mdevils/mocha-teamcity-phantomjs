@@ -1,0 +1,15 @@
+{
+  "name": "mocha-teamcity-phantomjs",
+  "version": "1.0.0",
+  "description": "Teamcity reporter for mocha and phantomjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdevils/mocha-teamcity-phantomjs.git"
+  },
+  "author": "Marat Dulin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdevils/mocha-teamcity-phantomjs/issues"
+  },
+  "homepage": "https://github.com/mdevils/mocha-teamcity-phantomjs"
+}
